@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"attr",
+				"attribute_name"
+			],
+			[
+				"store",
+				"store_products_attributes_group_values"
+			],
+			[
+				"att",
+				"attribute_group"
+			],
+			[
+				"resu",
+				"result_array"
+			],
+			[
+				"_getAtt",
+				"_GetAllAttributesList"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"on",
+				"onkeyup\tAttr"
+			],
+			[
+				"onpr",
+				"onkeypress\tAttr"
+			],
+			[
+				"pr",
+				"product_filters"
+			],
+			[
+				"vali",
+				"valid-otp"
+			],
+			[
+				"tra",
+				"trans_commit"
+			],
+			[
+				"trans",
+				"trans_status"
+			],
+			[
+				"tran",
+				"trans_status"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"trans_",
+				"trans_status"
+			],
+			[
+				"admin",
+				"admin_id"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"vend",
+				"vendor_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"oder",
+				"order_id"
+			],
+			[
+				"od",
+				"order_id"
+			],
+			[
+				"v",
+				"v_id"
+			],
+			[
+				"ven",
+				"vendor_id"
+			],
+			[
+				"ve",
+				"vendor_id"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"insert",
+				"insert_id"
+			],
+			[
+				"to",
+				"totalDiscount"
+			],
+			[
+				"tot",
+				"totalMRP"
+			],
+			[
+				"dis",
+				"discountedAmount"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"max",
+				"max_qty"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"remem",
+				"remember"
+			],
+			[
+				"col-s",
+				"col-sm-12"
+			],
+			[
+				"para",
+				"paramName"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"co",
+				"col-md-4"
+			],
+			[
+				"address",
+				"address_id"
+			],
+			[
+				"C",
+				"CUSTOMER"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Workspace/www/www.olygex.com/index.php",
+			"settings":
+			{
+				"buffer_size": 13211,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Workspace/www/www.aushadh.in/vendors",
+		"/D/Workspace/www/www.aushadh.in/vendors/application",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/controllers",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/core",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/logs",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/models",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/templates",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor"
+	],
+	"file_history":
+	[
+		"/D/Workspace/www/www.suvidhaaservices.com/index.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/controllers/Catalogue.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/models/Product_Model.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue/product-update.php",
+		"/D/Workspace/www/www.aushadh.in/index.php",
+		"/D/Workspace/www/www.suvidhaaservices.com/index.html",
+		"/D/Workspace/www/www.suvidhaaservices.com/header.php",
+		"/D/Workspace/www/www.suvidhaaservices.com/footer.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/models/Attribute_Model.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/core/MY_Controller.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/config/form_validation.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue/product-add.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue/attributes-group-list.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/templates/header.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/controllers/Login.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/models/Vendor_Model.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/config/autoload.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/controllers/Vendor.php",
+		"/C/Users/Omasha Technologies/Downloads/CHECK_TxnStatuss.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/index.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/config/routes.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/address.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/otp.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/controllers/Home.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/index.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/otp.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/config/config.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/templates/footer.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/templates/footer.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/templates/header.php",
+		"/D/Workspace/www/www.aushadh.in/assets/panel/css/main.css",
+		"/D/Workspace/www/www.aushadh.in/assets/panel/css/min.style.css",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/index.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/bank.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/business.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/header.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/vendor/register/documents.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/otp.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/settings/manager/profile.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/config/routes.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/controllers/Manager.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/core/MY_Controller.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/models/Manager_Model.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/settings/manager/password.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/views/reports/vendors/details.php",
+		"/D/Workspace/www/www.aushadh.in/administration/assets/css/main.css",
+		"/D/Workspace/www/www.aushadh.in/administration/application/config/config.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/success.php",
+		"/D/Workspace/www/www.aushadh.in/store/controllers/Customer.php",
+		"/D/Workspace/www/www.aushadh.in/administration/application/controllers/Login.php",
+		"/D/Workspace/www/www.aushadh.in/store/config/form_validation.php",
+		"/D/Workspace/www/www.aushadh.in/store/models/Cart_Model.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/otp.php",
+		"/D/Workspace/www/www.aushadh.in/.htaccess",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue/product-search.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/catalogue/product-list.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/assets/css/main.css",
+		"/D/Omasha/My Work/Projects/Employ Arena/employarena.com/view/payment/success.php",
+		"/D/Omasha/My Work/Projects/Employ Arena/employarena.com/view/payment/failure.php",
+		"/D/Workspace/www/www.aushadh.in/store/config/autoload.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/orders/details.php",
+		"/D/Workspace/www/www.aushadh.in/vendors/assets/plugins/data-tables/datatables.min.js",
+		"/D/Workspace/www/www.aushadh.in/vendors/application/views/orders/orders.php",
+		"/D/Workspace/www/www.aushadh.in/store/models/Customer_Model.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/orders/details.php",
+		"/D/Workspace/www/www.aushadh.in/store/controllers/Cart.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/templates/sidebar.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/details.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/password.php",
+		"/D/Workspace/www/www.aushadh.in/store/controllers/Pages.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/orders.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/profile.php",
+		"/D/Workspace/www/www.aushadh.in/assets/css/layouts.css",
+		"/D/Workspace/www/www.aushadh.in/store/config/routes.php",
+		"/D/Workspace/www/www.aushadh.in/store/controllers/Cart - Copy.php",
+		"/D/Workspace/www/www.aushadh.in/store/core/MY_Controller.php",
+		"/D/Workspace/www/www.aushadh.in/store/controllers/Cart_Old.php",
+		"/D/Workspace/www/www.aushadh.in/store_1/controllers/Pages.php",
+		"/D/Workspace/www/www.aushadh.in/store_1/controllers/Prescription.php",
+		"/D/Workspace/www/www.aushadh.in/store_2/controllers/Pages.php",
+		"/D/Workspace/www/www.aushadh.in/store_1/controllers/Cart.php",
+		"/D/Workspace/www/www.aushadh.in/store_1/controllers/Customer.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/pages/cart.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/pages/product.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/customer/account.php",
+		"/D/Workspace/www/www.aushadh.in/assets/css/essentials.css",
+		"/C/Users/Omasha Technologies/Downloads/omasha_aushadh.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/ajax.php",
+		"/C/Users/Omasha Technologies/Downloads/tables.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/templates/footer.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/templates/categories.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/templates/header.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/pages/index.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/step_2.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/step_1.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/paytm/step_3.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/failure.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/step_3.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/checkout.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/address.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/otp.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/login/index.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/paytm/step_2.php",
+		"/D/Workspace/www/www.aushadh.in/store/config/config.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/paytm/step_1.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/paytm/lib/config_paytm.php",
+		"/D/Workspace/www/PaytmKit/TxnTest.php",
+		"/D/Workspace/www/PaytmKit/pgRedirect.php",
+		"/D/Workspace/www/PaytmKit/lib/config_paytm.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/index.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/store/product.php",
+		"/D/Workspace/www/www.aushadh.in/store/models/Store_Model.php",
+		"/D/Workspace/www/www.aushadh.in/store/libraries/MY_Form_validation.php",
+		"/D/Workspace/www/www.oops.com/index.php",
+		"/D/Omasha/My Work/Projects/Mera Budget/merabudget.com/merabudget.com/dblink.php",
+		"/D/Workspace/www/www.oops.com/controller/circle.php",
+		"/D/Workspace/www/www.oops.com/controller/circle",
+		"/D/Omasha/My Work/Projects/Mera Budget/merabudget.com/merabudget.com/index.php",
+		"/D/Workspace/www/x_Backup_x/startupfresh.com/library/config.php",
+		"/D/Workspace/www/x_Tutorials_x/tutorials/Php Functions/Captcha/index.php",
+		"/D/Workspace/www/x_Backup_x/startupfresh.com/index.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/thankyou.php",
+		"/D/Workspace/www/www.aushadh.in/assets/css/style.css",
+		"/D/Workspace/www/www.aushadh.in/store/views/store/index.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/payment/paytm/step_5.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/paytm/step_2.php",
+		"/D/Workspace/www/www.aushadh.in/store/views/cart/paytm/step_1.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" class=\"form-group form-row\"",
+			"class=\"form-control\"",
+			" col-md-2",
+			"store_attributes",
+			"store_attributes_group",
+			"_GetProfile",
+			"result['values']",
+			"'user'",
+			"MANAGER->",
+			"MANAGER",
+			"email",
+			"Email",
+			"email",
+			"admin_",
+			"_active",
+			"'user'",
+			"user",
+			"admin",
+			"Admin",
+			"admin",
+			"Admin",
+			"admin",
+			"Admin",
+			"14.jpg",
+			".html",
+			"plugins",
+			"assets",
+			"plugins",
+			"assets",
+			"input-lg",
+			"plugins",
+			"assets",
+			"plugins",
+			"assets",
+			"plugins",
+			"assets",
+			"assets/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Workspace/www/www.olygex.com/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vendor-editor.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
